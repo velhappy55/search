@@ -94,6 +94,7 @@ code {
 .icon{
   color: rgb(245, 21, 21);
   font-size: 20px;
+  margin-top: 5px;
 }
 .fooditem{
   color: blue;
@@ -105,4 +106,8 @@ code {
 .name{
   font-size: 18px;
   margin-left: 15px;
+}
+.searchins{
+  color: red;
+  font-size: 15px;
 }
